@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GiphyApp/static/css/main.e9ed406e.chunk.css",
+    "main.js": "/GiphyApp/static/js/main.ec85c934.chunk.js",
+    "main.js.map": "/GiphyApp/static/js/main.ec85c934.chunk.js.map",
+    "runtime-main.js": "/GiphyApp/static/js/runtime-main.193b1926.js",
+    "runtime-main.js.map": "/GiphyApp/static/js/runtime-main.193b1926.js.map",
+    "static/js/2.19f11ec2.chunk.js": "/GiphyApp/static/js/2.19f11ec2.chunk.js",
+    "static/js/2.19f11ec2.chunk.js.map": "/GiphyApp/static/js/2.19f11ec2.chunk.js.map",
+    "static/js/3.a8599fa9.chunk.js": "/GiphyApp/static/js/3.a8599fa9.chunk.js",
+    "static/js/3.a8599fa9.chunk.js.map": "/GiphyApp/static/js/3.a8599fa9.chunk.js.map",
+    "index.html": "/GiphyApp/index.html",
+    "static/css/main.e9ed406e.chunk.css.map": "/GiphyApp/static/css/main.e9ed406e.chunk.css.map",
+    "static/js/2.19f11ec2.chunk.js.LICENSE.txt": "/GiphyApp/static/js/2.19f11ec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.193b1926.js",
+    "static/js/2.19f11ec2.chunk.js",
+    "static/css/main.e9ed406e.chunk.css",
+    "static/js/main.ec85c934.chunk.js"
+  ]
+}
